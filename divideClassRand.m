@@ -1,5 +1,5 @@
 function [trainInd, valInd, testInd] = divideClassRand(labels, trainRatio, valRatio)
-% divideClassRand split training set with number of elements equal
+% divideClassRand splits data set with number of elements equal
 % N = length(labels) into three set training with about trainRatio * N
 % elements, validationset with about valRatio * N elements, and test set
 % with remainder of elements. Records of each class are split separately.
