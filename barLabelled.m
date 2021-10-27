@@ -1,5 +1,5 @@
 function b = barLabelled(b)
-% Add labels to bar graphf
+% Add labels to bar graph
 % b is bar object.
 %
     % Get data for labels
