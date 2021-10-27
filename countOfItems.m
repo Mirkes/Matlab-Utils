@@ -1,6 +1,6 @@
 function [items, counts] = countOfItems(arr)
 % countOfItems calculates the number of occurrences of each unique value of
-% elements in array ar into arr.
+% elements in array arr into arr.
 %
 % Inputs:
 %   arr is vector to calculate occurrences.
